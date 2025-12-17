@@ -12,7 +12,6 @@
 ### 🔹 Mạng máy tính & Hệ thống
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall-pfSense-0A74DA?style=for-the-badge)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 - Mô hình OSI, TCP/IP  
