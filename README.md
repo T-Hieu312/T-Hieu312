@@ -1,9 +1,9 @@
 # 👋 Xin chào, tôi là Hiếu
 
-🎓 **Sinh viên năm 4 – Ngành An Toàn Thông Tin**  
-🛡️ **Định hướng: Network / System / Security Engineer**  
-💻 **Có nền tảng Backend & Hệ thống**  
-📍 **Việt Nam**
+ **Sinh viên năm 4 – Ngành An Toàn Thông Tin**  
+ **Định hướng: Network / System / Security Engineer**  
+ **Có nền tảng Backend & Hệ thống**  
+ **Việt Nam**
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 🔹 An toàn thông tin
+###  An toàn thông tin
 ![Security](https://img.shields.io/badge/Cyber_Security-2F4F4F?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
@@ -36,7 +36,7 @@
 
 ---
 
-### 🔹 Lập trình & Backend (hỗ trợ cho Security)
+###  Lập trình & Backend (hỗ trợ cho Security)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,7 +49,7 @@
 
 ---
 
-## 🚀 Dự án tiêu biểu
+##  Dự án tiêu biểu
 
 | 🔹 Tên dự án | 🛠 Công nghệ | 📄 Mô tả |
 |-------------|-------------|----------|
@@ -60,7 +60,7 @@
 
 ---
 
-## 🧪 Thực hành & Lab
+##  Thực hành & Lab
 - Cấu hình hệ thống mạng trong môi trường ảo  
 - Cài đặt Web Server, Database Server trên Linux  
 - Phân tích log hệ thống & log web  
@@ -68,19 +68,19 @@
 
 ---
 
-## 📊 Thống kê GitHub
+##  Thống kê GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-Hieu312&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Hieu312&layout=compact&theme=radical)
 ---
 
-## 📬 Liên hệ
+##  Liên hệ
 
-- 📧 **Email:** nth19022k4@gmail.com  
-- 🌐 **GitHub:** https://github.com/T-Hieu312  
+-  **Email:** nth19022k4@gmail.com  
+-  **GitHub:** https://github.com/T-Hieu312  
 
 ---
 
-⭐ *Mục tiêu của tôi là trở thành Network / System / Security Engineer trong môi trường doanh nghiệp.*
+ *Mục tiêu của tôi là trở thành Network / System / Security Engineer trong môi trường doanh nghiệp.*
 
 -->
